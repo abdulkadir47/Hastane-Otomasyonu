@@ -1,2 +1,3 @@
 # Hastane-Otomasyonu
 C# ile hastane otomasyonu projesi...
+Umarım size faydası dokunur :)
